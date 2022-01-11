@@ -22,11 +22,11 @@
     
 * inverted_index_gcp.py
    
-   Implemnet tha InvertedIndex, MultiFileReader, MultiFileWriter Classץ
+   Implemnet tha InvertedIndex, MultiFileReader, MultiFileWriter Class.
    
 * bucket file
     
-   Text filr for each bucket contentץ
+   Text filr for each bucket content.
 
 
  
